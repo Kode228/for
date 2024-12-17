@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    setlocale(LC_ALL, "Ru");
+    setlocale(LC_ALL, "Russian");
 	//задача 2
 	/*const int size = 40;
 	int ar[size];
